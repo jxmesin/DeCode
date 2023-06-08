@@ -3,7 +3,7 @@
 
 
 # Preview!
-[decode](https://github.com/jxmesin/DeCode/assets/112153725/9b0e77b7-8f55-4c92-89c7-cd71d5752b0d)
+(https://github.com/jxmesin/DeCode/assets/112153725/9b0e77b7-8f55-4c92-89c7-cd71d5752b0d)
 
 
 ## Table of Contents
