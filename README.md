@@ -4,8 +4,7 @@ DeCode is meant to help anyone who might be either starting out wtih frontend de
 
 
 # Preview
-
-![Front Page of Website](./src/media/decode.jpg)
+![Front Page](./src/media/decode.jpg)
 
 ## Table of Contents
 - [Features](#features)
@@ -20,11 +19,16 @@ DeCode is meant to help anyone who might be either starting out wtih frontend de
 ### Practice Problems
 DeCode offers a plethora or frontend practice problems that can be solved with your choice of programming language or framework.
 
+### Interview Prep
+Alongside having different problems that users can work on, DeCode also offers interview prep tailored for frontend questions.
+
+### Contests
+DeCode will have many opportunities for users to have fun with the frontend development community. We will hold monthly contests and offer winners a wide array of prizes
+
 ## Usage
 
 
 ## About
-
 
 ## Credits
 - James Inanoria ([jxmesin](https://github.com/jxmesin))
