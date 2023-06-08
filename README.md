@@ -4,7 +4,7 @@
 
 # Preview
 
-![Front Page of Website](./media/decode.jpg)
+![Front Page of Website](/media/decode.jpg)
 
 ## Table of Contents
 - [Features](#features)
