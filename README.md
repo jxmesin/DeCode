@@ -3,8 +3,7 @@
 
 
 # Preview
-
-![Front Page of Website](/media/decode.jpg)
+![Uploading decode.jpg…]()
 
 ## Table of Contents
 - [Features](#features)
