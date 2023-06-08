@@ -8,7 +8,7 @@ import { Button } from 'react-bootstrap';
 
 export default function App() {
   return (
-    <MDBFooter bgColor='none' className='text-center text-white text-lg-left' style={{backgroundColor: '#FFFFF'}}>
+    <MDBFooter bgColor='dark' className='text-center text-white text-lg-left' style={{backgroundColor: '#FFFFF'}}>
       <MDBContainer className='pt-1'>
         <section className='mb-1'>
           <Button

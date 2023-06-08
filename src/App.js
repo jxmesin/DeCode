@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from './nav/Navbar';
 import Footer from './nav/Footer';
+import Main from './Main';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
@@ -37,6 +38,7 @@ function App() {
   return (
     <ApolloProvider client={client}> 
       <Navbar />
+      <Main />
       <Footer />
     </ApolloProvider>
   )

@@ -15,5 +15,33 @@ code {
 }
 
 .nav-color {
-  background-color: gray !important;
+  background-color: white !important;
+}
+
+.nav-space {
+  color: black;
+}
+
+.home-container1 {
+  background-color: black;
+  height: 400px;
+}
+
+.home-container2 {
+  background-color:#F6B450 ;
+  height: 200px;
+  width: 250px;
+}
+
+.home-text1 {
+  color: #D05740;
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  padding-top: 150px;
+  flex-direction: column;
+}
+
+.home-text2 {
+  color: #2E2D7A;
 }
