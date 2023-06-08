@@ -1,10 +1,11 @@
-# DeCode
+# DeCode - Learn, Design, Code
 ## Description
+DeCode is meant to help anyone who might be either starting out wtih frontend development or someone who wants to practice their programming skills for a frontend interview. 
 
 
 # Preview
 
-![Front Page of Website](./media/decode.jpg)
+![Front Page of Website](./src/media/decode.jpg)
 
 ## Table of Contents
 - [Features](#features)
@@ -16,16 +17,13 @@
 
 
 ## Features
-
-
+### Practice Problems
+DeCode offers a plethora or frontend practice problems that can be solved with your choice of programming language or framework.
 
 ## Usage
 
 
-
 ## About
-
-
 
 
 ## Credits
