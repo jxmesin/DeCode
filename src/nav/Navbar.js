@@ -24,7 +24,6 @@ export default class Navigation extends Component {
               <Nav.Link href="#link">Interview</Nav.Link>
               <Nav.Link href="#link">Forum</Nav.Link>
               <Nav.Link href="#link">Contest</Nav.Link>
-             
             </Nav>
           </Navbar.Collapse>
         </Container>

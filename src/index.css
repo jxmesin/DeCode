@@ -1,4 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Amarante&family=Creepster&family=DM+Serif+Display&family=Gloock&family=Jost&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet');
+
+:root {
+  --lightred: #C1645C;
+  --lightyellow: #F4C641;
+  --lightgreen: #67876D;
+  --lightblue: #4F8994;
+  --lightpink: #E19E93;
+  --lightpurple: #A56B9F;
+
+}
 
 body {
   margin: 0;
@@ -37,7 +47,7 @@ code {
   color: #D05740;
   font-size: 100px;
   text-align: center;
-  font-family: 'Righteous', cursive;
+  font-family: 'Poppins', sans-serif;
   padding-top: 150px;
   flex-direction: column;
 }
@@ -45,3 +55,8 @@ code {
 .home-text2 {
   color: #2E2D7A;
 }
+
+.home-text3 {
+  color: #0000;
+}
+

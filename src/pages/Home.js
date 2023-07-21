@@ -14,6 +14,9 @@ export default function Home() {
                     <h1 className="home-text2">
                         What's DeCode?
                     </h1>
+                    <h2 className="home-text3">
+                        DeCode is Leetcode for Frontend Developers
+                    </h2>
                 </div>
             </div>
             
